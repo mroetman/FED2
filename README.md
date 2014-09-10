@@ -8,7 +8,7 @@ Best practices used in code
 
 Comment your code
 
-JavaScript
+<h1>JavaScript</h1>
 
 Don't use global variables/objects
 Use short clear (meaningful) names
@@ -17,6 +17,6 @@ Constants with all captials
 camelCase the rest
 Place external scripts at the bottom of the page
 
-CSS
+<h1>CSS</h1>
 
-HTML
+<h1>HTML</h1>

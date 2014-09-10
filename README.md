@@ -1,6 +1,8 @@
 FrontEndDevelopment
 ===================
 
+Best practices
+
 <h1>Algemeen</h1>
 
 <h1>JavaScript</h1>

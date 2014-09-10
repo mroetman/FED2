@@ -4,7 +4,7 @@ FrontEndDevelopment
 Best practices
 Best practices used in code
 
-Algemeen
+<h1>Algemeen</h1>
 
 Comment your code
 
